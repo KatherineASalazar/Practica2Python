@@ -1,0 +1,1 @@
+#Escriba un programa en Python para construir el siguiente patrón.
